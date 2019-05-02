@@ -1,0 +1,12 @@
+1:找到密匙:
+        cd ~/,ssh/
+2:输入:
+        ssh-keygen
+3:生成两个文件，一个公钥，一个私钥:
+4:打开公钥与Git绑定:
+5:在 Github 首页点击右上角 Settings:
+6:绑定服务器上面的公匙:
+7:将git上面的文件拉取下来：
+        点击git目录的 clone or download 下的clone with SSH内容，复制其地址
+8:在服务器上将git文件拉去下来:
+        git clone 复制地址
