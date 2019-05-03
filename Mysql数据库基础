@@ -2,4 +2,9 @@
 	查看数据库
 2:create database ()
 	创建一个数据库
-3:
+3:drop database ()
+	删除一个数据库
+4:use ()
+	切换数据表
+5:create table (表格的名称)
+
