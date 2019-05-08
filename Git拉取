@@ -12,4 +12,6 @@
         git clone 复制地址
 
 9:分支
-	git 
+	git branch 分支的创建~分支的查看
+	git checkout 分支的切换
+	git push -u root 
