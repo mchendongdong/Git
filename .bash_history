@@ -3259,3 +3259,45 @@ cd
 ls
 #1558071237
 git add Git/
+#1558071254
+git commit -am'123';
+#1558071271
+git push -u root origin master 
+#1558071319
+ssh  ~/.ssh/
+#1558071326
+cd  ~/.ssh/
+#1558071327
+ls
+#1558071334
+ls
+#1558071335
+cd
+#1558071335
+ls
+#1558071338
+vim Git/
+#1558071347
+cd Git/
+#1558071347
+ls
+#1558071388
+git clone git@github.com:mchendongdong/Git.git
+#1558071397
+ks
+#1558071398
+ls
+#1558071408
+ld
+#1558071409
+ls
+#1558071417
+git add .
+#1558071425
+ls
+#1558071427
+cd
+#1558071429
+git add .
+#1558071441
+git commit -am
