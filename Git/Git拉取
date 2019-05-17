@@ -10,3 +10,7 @@
         点击git目录的 clone or download 下的clone with SSH内容，复制其地址
 8:在服务器上将git文件拉去下来:
         git clone 复制地址
+9:将文件上传 （首先源文件要搭配好了）然后上传密令为：
+10:git add .(上传的路径)
+11:git commit -am"1234" （上传文件的注释）
+12:git push -u origin master (master为分支) (origin源文件) 上传的密令。
