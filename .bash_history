@@ -3779,3 +3779,13 @@ clear
 ls
 #1558678176
 git add .
+#1558678183
+git commit -am"123"
+#1558678190
+git push -u origin master
+#1558678237
+git pull
+#1558678328
+git add chendongdong/
+#1558678333
+git commit -am
