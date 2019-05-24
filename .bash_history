@@ -3501,3 +3501,11 @@ ls
 ls
 #1558676844
 git add .
+#1558676854
+git commit -am"123"
+#1558676867
+git push -u origin master;
+#1558676975
+git remote add origin git@github.com:mchendongdong/Git.git
+#1558676983
+git add wangEditor/
