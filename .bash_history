@@ -3691,3 +3691,91 @@ ls
 git add chendongdong
 #1558677854
 git add chendongdong
+#1558677859
+git commit -am"123"
+#1558677870
+git push -u origin master 
+#1558677907
+ls
+#1558677934
+cp chendongdong /cd/Gi、
+#1558677936
+cp chendongdong /cd/Gi/
+#1558677938
+ls
+#1558677952
+sudo cp chendongdong cd/Git/
+#1558677956
+sudo cp chendongdong /cd/Git/
+#1558678007
+cp -f chendongdong /cd/Git/
+#1558678008
+ls
+#1558678013
+cd Git/
+#1558678014
+ls
+#1558678016
+cd
+#1558678017
+ls
+#1558678028
+cp -r chendongdong /Git/
+#1558678029
+ls
+#1558678032
+cd Git/
+#1558678034
+ls
+#1558678075
+cp -r chendongdong ../Git/
+#1558678079
+ls
+#1558678082
+cd
+#1558678084
+cp -r chendongdong ../Git/
+#1558678085
+ls
+#1558678089
+cd Git/
+#1558678089
+LS
+#1558678090
+ls
+#1558678091
+ls
+#1558678092
+ls
+#1558678096
+cd chendongdong/
+#1558678105
+cd chendongdong/
+#1558678106
+ls
+#1558678108
+cd
+#1558678111
+cd chendongdong/
+#1558678111
+ls
+#1558678121
+cat README.md 
+#1558678156
+LS
+#1558678159
+ls
+#1558678160
+cd /
+#1558678161
+ls
+#1558678162
+cd
+#1558678162
+ls
+#1558678172
+clear
+#1558678172
+ls
+#1558678176
+git add .
