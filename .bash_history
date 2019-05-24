@@ -3471,3 +3471,15 @@ git commit -am
 ls
 #1558676577
 git add wangEditor/
+#1558676602
+git commit -am 'NIHAO'
+#1558676615
+git push -u origin master;
+#1558676629
+git branch 
+#1558676637
+ls
+#1558676643
+git wangEditor/
+#1558676648
+git add wangEditor
