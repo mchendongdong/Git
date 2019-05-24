@@ -3509,3 +3509,185 @@ git push -u origin master;
 git remote add origin git@github.com:mchendongdong/Git.git
 #1558676983
 git add wangEditor/
+#1558676991
+git commit -am'123'
+#1558677001
+git push -u origin master;
+#1558677050
+ls
+#1558677051
+clear
+#1558677055
+git pull
+#1558677069
+git origin;
+#1558677076
+git remive;
+#1558677081
+ckear
+#1558677083
+clear
+#1558677085
+git add .
+#1558677093
+git commit -am;
+#1558677097
+clear
+#1558677101
+git add .
+#1558677114
+git commit -a'123'
+#1558677117
+git 
+#1558677119
+cleart
+#1558677121
+clear
+#1558677122
+ls
+#1558677157
+git branch 
+#1558677161
+git checkout 
+#1558677173
+git checkout;
+#1558677190
+git remote -v
+#1558677207
+git branch -a
+#1558677291
+cd git/
+#1558677292
+ls
+#1558677379
+cp wangEditor /git
+#1558677380
+ls
+#1558677383
+ls
+#1558677384
+cd
+#1558677384
+ls
+#1558677386
+cleart
+#1558677388
+clear
+#1558677388
+ls
+#1558677403
+cp wangEditor /git/Git
+#1558677404
+ls
+#1558677408
+cd git/
+#1558677409
+ls
+#1558677411
+cd Git/
+#1558677412
+ls
+#1558677418
+clear
+#1558677429
+ls
+#1558677431
+cd
+#1558677432
+ls
+#1558677451
+sudo cp wangEditor /git/Git
+#1558677453
+ls
+#1558677458
+cd git/
+#1558677458
+ls
+#1558677463
+cd Git/
+#1558677464
+ls
+#1558677676
+CD
+#1558677677
+cd
+#1558677678
+ls
+#1558677684
+rm -r git/
+#1558677685
+ls
+#1558677689
+rm -r git
+#1558677692
+y
+#1558677693
+ls
+#1558677697
+rm -r git
+#1558677706
+rm -rf git;
+#1558677708
+ls
+#1558677741
+git clone git@github.com:mchendongdong/Git.git
+#1558677746
+ls
+#1558677751
+git add .
+#1558677753
+git add.
+#1558677756
+clear
+#1558677758
+git add .
+#1558677765
+ls
+#1558677776
+mv wangEditor chendongdong;
+#1558677777
+ls
+#1558677784
+cp chendongdong /Git
+#1558677786
+ls
+#1558677792
+cd Git/
+#1558677793
+ls
+#1558677803
+ls
+#1558677809
+s
+#1558677810
+ls
+#1558677811
+cd/
+#1558677811
+ls
+#1558677813
+cd /
+#1558677814
+ls
+#1558677816
+cd /
+#1558677817
+ls
+#1558677818
+cd
+#1558677818
+ls
+#1558677831
+vf
+#1558677834
+cf
+#1558677834
+ls
+#1558677844
+clear
+#1558677846
+ls
+#1558677851
+git add chendongdong
+#1558677854
+git add chendongdong
