@@ -3455,3 +3455,19 @@ ls
 git add wangEditor/
 #1558676509
 ls
+#1558676522
+git commit -am'文档'
+#1558676534
+git push -u origin master;
+#1558676540
+clear
+#1558676541
+ls
+#1558676544
+git add .
+#1558676549
+git commit -am
+#1558676569
+ls
+#1558676577
+git add wangEditor/
