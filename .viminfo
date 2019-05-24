@@ -7,9 +7,12 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
-:wq
 :!q
+:wq
 :WQ
 :-q
 :-qa
@@ -25,12 +28,14 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""0	CHAR	0
+	址
+"-	CHAR	0
 	址
 
 # File marks:
-'0  15  54  ~/Git/Mysql数据库基础
-'1  1  0  ~/Git/Git拉取
+'0  1  0  ~/Git/Git拉取
+'1  15  54  ~/Git/Mysql数据库基础
 '2  1  416  ~/Git/Git拉取
 '3  7  0  ~/Git/Git拉取
 '4  804  0  /var/log/mysqld.log
@@ -41,8 +46,8 @@
 '9  17  0  ~/Git/Mysql数据库基础
 
 # Jumplist (newest first):
--'  15  54  ~/Git/Mysql数据库基础
 -'  1  0  ~/Git/Git拉取
+-'  15  54  ~/Git/Mysql数据库基础
 -'  14  0  ~/Git/Mysql数据库基础
 -'  7  0  ~/Git/Git拉取
 -'  6  1  ~/Git/Git拉取
@@ -136,10 +141,43 @@
 -'  1  0  mysqld.log/
 -'  13  0  ~/git/Git/Git教程
 -'  1  0  ~/git/Git/Git教程
--'  1  0  ~/Git/Git拉取
 -'  16  0  ~/Git/Mysql数据库基础
 
 # History of marks within files (newest to oldest):
+
+> ~/Git/Git拉取
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	414
+	+	4	43
+	+	6	36
+	+	1	415
+	+	1	0
+
+> ~/.ssh/id_rsa.pub
+	"	1	0
+
+> ~/.ssh/id_rsa
+	"	2	4
+	^	2	6
+	.	2	5
+	+	2	5
+
+> ~/git/Git/Mysql数据库基础
+	"	6	10
+	^	6	13
+	.	6	10
+	+	7	0
+	+	3	24
+	+	5	12
+	+	6	10
+
+> ~/git/Git/Git拉取
+	"	32	0
+	^	32	0
+	.	31	0
+	+	31	0
 
 > ~/Git/Mysql数据库基础
 	"	15	54
@@ -159,16 +197,6 @@
 	+	15	0
 	+	15	1
 	+	15	54
-
-> ~/Git/Git拉取
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	414
-	+	4	43
-	+	6	36
-	+	1	415
-	+	1	0
 
 > /etc/yum.repos.d/MariaDB.repo
 	"	1	0
@@ -202,9 +230,6 @@
 	+	22	1
 
 > ~/.ssh/ssh-keygen
-	"	1	0
-
-> ~/.ssh/id_rsa.pub
 	"	1	0
 
 > ~/git/Git/Git教程
